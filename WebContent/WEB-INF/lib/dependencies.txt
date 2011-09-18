@@ -1,0 +1,3 @@
+spring
+apache commons logging
+apache commons xmlrpc client
